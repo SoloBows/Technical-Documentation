@@ -1,4 +1,14 @@
 # Jira Automation Rules Documentation
+## 📖 Table of Contents
+
+1. [Ticket Escalation to RCM Team](#1-ticket-escalation-to-rcm-team)
+2. [Auto-Assignment for Billing Inquiries](#2-auto-assignment-for-billing-inquiries)
+3. [Unapplied Balances Request Routing](#3-unapplied-balances-request-routing)
+4. [Refund-Related Ticket Identification](#4-refund-related-ticket-identification)
+5. [Priority-Based Response SLA](#5-priority-based-response-sla)
+6. [Automated Ticket Closure for Inactive Requests](#6-automated-ticket-closure-for-inactive-requests)
+7. [Future Enhancements](#future-enhancements)
+
 
 ## Overview
 This document outlines the automation rules implemented for routing and managing billing inquiries within the Jira Helpdesk. The purpose of these rules is to streamline issue resolution, eliminate backlog, and enhance operational efficiency.
