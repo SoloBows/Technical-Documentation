@@ -56,7 +56,9 @@
 
 ### 📂 **Related Documentation**
 📂 **[View full Jira ticket details](jira-ticket-summary.md)**  
-📂 **[Automation rule screenshots](images/FM-to-TSD-Automation.png)**  
+📂 **[Automation rule screenshots]**  
+** ![FM-to-TSD Automation](https://github.com/user-attachments/assets/c8b05b34-1354-4c66-98c6-582fa2447a92) ** 
+**  ![Request Types Screenshot](https://github.com/user-attachments/assets/f894e371-5cd3-4711-a77f-14f0fce590f6) ** 
 
 ---
 
