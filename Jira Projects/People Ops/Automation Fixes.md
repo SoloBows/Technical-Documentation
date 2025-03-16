@@ -119,7 +119,6 @@ To diagnose the issue, **tests were conducted on multiple ticket transitions**, 
 📂 **[JSON Export for Field Mapping](automation-json/estimated-return-to-work.json)**  
 
 ---
-
 ## 🚀 **Next Steps**
 - Expand automation to **auto-fill more HR-related fields**.  
 - Implement **SLA tracking for People Ops tickets**.  
