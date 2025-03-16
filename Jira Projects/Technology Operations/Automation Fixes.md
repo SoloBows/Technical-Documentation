@@ -61,7 +61,7 @@
 
 ## 📂 **Related Files**
 📂 **[TO Vital Stats Dashboard Overview](vital-stats-dashboard.md)**  
-📂 ** [Technical Operations Vital Statistics v.1.pdf](https://github.com/user-attachments/files/19276139/Technical.Operations.Vital.Statistics.v.1.pdf)**
+📂 **[Technical Operations Vital Statistics v.1.pdf](https://github.com/user-attachments/files/19276139/Technical.Operations.Vital.Statistics.v.1.pdf)**
 ---
 
 ## 🚀 **Next Steps**
