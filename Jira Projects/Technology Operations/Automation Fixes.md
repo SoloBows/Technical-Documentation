@@ -48,13 +48,14 @@
 ## 📊 **Final Dashboard View**
 | **Dashboard Section** | **Screenshot** |
 |--------------------|--------------|
-| **Closed Tickets (Last 7 & 90 Days)** |![Image](https://github.com/user-attachments/assets/e817b2ac-15c2-453f-b025-b38645d50808) |
+| **Closed Tickets (Last 7 & 90 Days)** |![Image](https://github.com/user-attachments/assets/0f442eff-69f3-4678-903c-60a6ed6acce9)
+![Image](https://github.com/user-attachments/assets/e817b2ac-15c2-453f-b025-b38645d50808) |
 | **Open Ticket Priorities** | |
 | **KPI Tracking Trends** |  |
 [Technical Operations Vital Statistics v.1.pdf](https://github.com/user-attachments/files/19276139/Technical.Operations.Vital.Statistics.v.1.pdf)
 
 
-![Image](https://github.com/user-attachments/assets/0f442eff-69f3-4678-903c-60a6ed6acce9)
+
 ![Image](https://github.com/user-attachments/assets/bfbad270-449f-48b4-aa29-689f868db903)
 
 ---
