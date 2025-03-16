@@ -52,7 +52,8 @@ To resolve this, we **updated the workflow automation** to **carry over the fiel
 ## 📷 **Screenshots**
 | **Issue Before Fix** | **Updated Workflow** |
 |----------------------|----------------------|
-| ![People-Ops Field Issue](https://github.com/user-attachments/assets/c8b05b34-1354-4c66-98c6-582fa2447a92) | ![TSD Ticket Validation](https://github.com/user-attachments/assets/f894e371-5cd3-4711-a77f-14f0fce590f6) |
+| ![Image](https://github.com/user-attachments/assets/44feb22b-96dc-4b5f-b8c3-0201b9f3502d)| ![Image](https://github.com/user-attachments/assets/021d147e-d569-40ec-8f97-213af0483d26)|
+
 
 ---
 
