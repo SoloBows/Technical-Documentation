@@ -107,13 +107,6 @@ To diagnose the issue, **tests were conducted on multiple ticket transitions**, 
 
 ---
 
-## 📷 **Screenshots**
-| **Workflow Before Fix** | **Updated Workflow Transition** |
-|----------------------|----------------------|
-| ![People-Ops Workflow Issue](https://github.com/user-attachments/assets/6d1bfa22-4cdd-41b5-b5f9-f4d67d5d5567) | ![Updated Transition Screen](https://github.com/user-attachments/assets/1c2fd1eb-72dd-48ff-9bf8-28fdc8f290ac)|
-
----
-
 ## 📂 **Related Documentation**
 📂 **[People Ops Project Overview](project-overview.md)**  
 📂 **[JSON Export for Field Mapping](automation-json/estimated-return-to-work.json)**  
