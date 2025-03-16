@@ -1,15 +1,22 @@
-# PBHD Project Overview
+PBHD Project Overview
 
 ## 🎯 Goal:
-The PBHD project is focused on streamlining IT service management using Jira. The goal is to automate ticket assignments, improve SLA tracking, and enhance reporting.
+The PBHD project is focused on **streamlining IT service management using Jira**. The goal is to **automate ticket assignments, improve SLA tracking, and enhance reporting.**
+
+To improve the efficiency and organization of the **Revenue Cycle Management (RCM) team**, I designed and implemented a **centralized ticketing system** in Jira. This system enables all team members to **easily track and manage tasks**, consolidating various aspects of RCM operations, including:
+- **Billing inquiries**  
+- **Payment issues**  
+- **Service disputes**  
+
+By integrating these processes into one cohesive platform, the PBHD project ensures **improved visibility, better task prioritization, and faster issue resolution** for the RCM team.
 
 ## 🔑 Key Stakeholders:
-- **Product Owner:** John Doe
-- **Technical Lead:** Jane Smith
-- **Project Manager:** Solounge Bowen
+- **Product Owner:** Richard Forsythe
+- **Technical Lead:** Solounge Bowen
+- **Project Manager:** Jordie Booth
 
 ## 📅 Timeline:
-- **Start Date:** January 2025
+- **Start Date:** November 2024
 - **End Date:** Ongoing
 
 ## 🚀 Technologies Used:
