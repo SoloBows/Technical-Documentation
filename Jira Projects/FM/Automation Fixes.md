@@ -11,7 +11,7 @@
 - **Assignee:** Solounge Bowen  
 
 ### 🛠 **Objective**
-- Create a **manual trigger** that allows FM team members to create **linked TSD tickets**.
+- Create a **manual trigger** that allows Facilities & Manangement team members to create **linked TSD tickets**.
 - Ensure the **TSD ticket is automatically assigned**.
 - Include **description & location fields**.
 - **Prompt for optional additional description** when triggered.
