@@ -1,37 +1,43 @@
-PBHD Project Overview
+# PBHD Jira Project: RCM Team Workflow Optimization
 
-## 🎯 Goal:
-The PBHD project is focused on **streamlining IT service management using Jira**. The goal is to **automate ticket assignments, improve SLA tracking, and enhance reporting.**
+## 📅 Date of Report:  
+**February 28, 2025**  
 
-To improve the efficiency and organization of the **Revenue Cycle Management (RCM) team**, I designed and implemented a **centralized ticketing system** in Jira. This system enables all team members to **easily track and manage tasks**, consolidating various aspects of RCM operations, including:
-- **Billing inquiries**  
-- **Payment issues**  
-- **Service disputes**  
+## 📌 Project Status:  
+✅ **Completed**
 
-By integrating these processes into one cohesive platform, the PBHD project ensures **improved visibility, better task prioritization, and faster issue resolution** for the RCM team.
+## 🎯 Technical Project Manager:  
+**Solounge Y. Bowen**  
 
-## 🔑 Key Stakeholders:
-- **Product Owner:** Richard Forsythe
-- **Technical Lead:** Solounge Bowen
-- **Project Manager:** Jordie Booth
+## 🎯 Project Goals  
 
-## 📅 Timeline:
-- **Start Date:** November 2024
-- **End Date:** Ongoing
+| **Goal** | **Was This Goal Completed?** |
+|----------------------------|------------------|
+| Improve the efficiency and organization of the Revenue Cycle Management (RCM) team by designing and implementing a centralized ticketing system. | ✅ Yes |
+| Consolidate billing inquiries, payment issues, and service disputes into one cohesive platform. | ✅ Yes |
 
-## 🚀 Technologies Used:
-- **Jira** (for issue tracking & automation)
-- **Confluence** (for documentation)
-- **Python & REST APIs** (for Jira automation)
-- **Power BI** (for reporting dashboards)
+## 🚀 **Key Features Implemented**  
+- **Centralized Ticketing System**: A unified interface for tracking RCM tickets.  
+- **Customizable Workflows**: Optimized ticket flows for efficiency.  
+- **Real-Time Dashboards**: Provided data visibility for decision-making.  
+- **Training & Change Management**: Ensured smooth adoption via daily check-ins.
 
-## 📌 Key Features Implemented:
-✅ **Automated ticket assignment** based on request type  
-✅ **Jira workflows for IT change management**  
-✅ **SLA alerts & escalations** for priority tickets  
-✅ **Custom dashboards** for service tracking  
+## 🔑 Key Stakeholders  
+- **Richard Forsythe**
+- **Jordie Booth**  
+- **Jasmine Sekhon**  
+- **Breann Perri**  
+- **Jennifer Teschendorf**  
+- **Victoria Deak**  
 
-## 📂 Related Documentation:
-- [Jira Ticket Summary](jira-ticket-summary.md)
-- [Sprint Retrospectives](sprint-retrospectives.md)
-- [Automation Rules](automation-rules.md)
+## 🛠 Software Tools Used  
+- **Jira Ticketing System** (for issue tracking)  
+- **KindEMR** (for electronic medical records)  
+- **Google Drive** (for documentation)  
+- **Slack** (for team communication)
+
+
+## 🔗 Link References  
+📂 **[Insert Jira Dashboard or Relevant Reports Here]**  
+
+📂 **For post-project analysis, view the [Lessons Learned](lessons-learned.md) file.**  
