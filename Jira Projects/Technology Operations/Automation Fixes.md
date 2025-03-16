@@ -50,7 +50,7 @@
 |--------------------|--------------|
 | **Closed Tickets (Last 7 & 90 Days)** |![Image](https://github.com/user-attachments/assets/0f442eff-69f3-4678-903c-60a6ed6acce9) |
 | **Open Ticket Priorities** |![Image](https://github.com/user-attachments/assets/bfbad270-449f-48b4-aa29-689f868db903) |
-| **KPI Tracking Trends** |  |
+| **KPI Tracking Trends** |![Image](https://github.com/user-attachments/assets/b8f539b4-8722-4adb-9a66-2ece943a8079)  |
 
 
 
@@ -61,7 +61,7 @@
 
 ## 📂 **Related Files**
 📂 **[TO Vital Stats Dashboard Overview](vital-stats-dashboard.md)**  
-📂 ** [Technical Operations Vital Statistics v.1.pdf] (https://github.com/user-attachments/files/19276139/Technical.Operations.Vital.Statistics.v.1.pdf)**
+📂 ** [Technical Operations Vital Statistics v.1.pdf](https://github.com/user-attachments/files/19276139/Technical.Operations.Vital.Statistics.v.1.pdf)**
 ---
 
 ## 🚀 **Next Steps**
