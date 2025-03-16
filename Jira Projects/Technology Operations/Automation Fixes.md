@@ -48,9 +48,9 @@
 ## 📊 **Final Dashboard View**
 | **Dashboard Section** | **Screenshot** |
 |--------------------|--------------|
-| **Closed Tickets (Last 7 & 90 Days)** | ![TO-closed-tickets](https://github.com/user-attachments/assets/c8b05b34-1354-4c66-98c6-582fa2447a92) |
-| **Open Ticket Priorities** | ![TO-open-tickets](https://github.com/user-attachments/assets/f894e371-5cd3-4711-a77f-14f0fce590f6) |
-| **KPI Tracking Trends** | ![TO-kpi-trends](https://github.com/user-attachments/assets/a239d3d8-5dcb-49f8-87e2-823d7e9a89bc) |
+| **Closed Tickets (Last 7 & 90 Days)** | |
+| **Open Ticket Priorities** | |
+| **KPI Tracking Trends** |  |
 
 ---
 
