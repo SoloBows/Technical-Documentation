@@ -58,8 +58,7 @@ To resolve this, we **updated the workflow automation** to **carry over the fiel
 ---
 
 ## 📂 **Related Documentation**
-📂 **[People Ops Project Overview](project-overview.md)**  
-📂 **[JSON Export for Field Mapping](automation-json/estimated-return-to-work.json)**  
+📂 
 
 ---
 
