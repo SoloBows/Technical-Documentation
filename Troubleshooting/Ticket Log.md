@@ -17,9 +17,13 @@ This document logs **troubleshooting tickets** handled within the Technology Ope
 | [TO-2167](https://github.com/SoloBows/Technical-Documentation/blob/3ab8b28ed4b4c92d86f60e9f00442d972595197e/Troubleshooting/Tickets/%5B%23TO-2167%5D%20Provider%20Ordering%20Access%20-%20Sara%20Rizk.pdf) | Change Healthcare |The Provider is encountering an error message "action denied" when attempting to order RX. The specific message states: "action denied. Please choose the other RX ordering tab or window before you can proceed." However, the user confirms there are no other tabs open for RX ordering.  |Ensured that the provider is able to prescribe controlled substances within the Chicago and Atlanta market | ✅ Resolved |
 | [TO_2346](https://github.com/SoloBows/Technical-Documentation/blob/a7caecd97309deab6a1c1085983a36116a53c8e2/Troubleshooting/Tickets/%5B%23TO-2346%5D%20Lab%20Orders%20Disappearing%20from%20KindEMR%20once%20created%20in%20San%20Diego.pdf) | Change Healthcare | Lab Orders Disappearing from KindEMR once created in San Diego  | The vendor responded quickly but took 5 weeks to resolve the issue, which stemmed from not associating our admin user to a location, causing orders not to appear in the San Diego market despite internal troubleshooting identifying the problem early.| ✅ Resolved |
 | [TO-2377](https://github.com/SoloBows/Technical-Documentation/blob/899854ba179df7a657ed3b8f77a3cc9ac1e5cf3b/Troubleshooting/Tickets/%5B%23TO-2377%5D%20Users%20constantly%20receiving%20Temporarily%20Broken%20Error.pdf) | Change Healthcare | Users constantly receiving Temporarily Broken Error | | ✅ Resolved |
+| [TO-3576](https://github.com/SoloBows/Technical-Documentation/blob/12d37c2f7f339ea87485942aa73d47d5b4bb2610/Jira%20Projects/Technology%20Operations/Tickets/%5B%23TO-3576%5D%20ISP_%20San%20Francisco%20Internet%20Down.pdf) | Comcast |San Francisco Clinic Internet Down  | Resolved SF internet outage by fixing payment issues with AP/Teampay, restoring service after 1 day outage. Setting up automated tracking to prevent future missed payments | ✅ Resolved |
 | [New Ticket]() | Vendor |  | | ✅ Resolved |
 | [New Ticket]() | Vendor |  | | ✅ Resolved |
-
+| [New Ticket]() | Vendor |  | | ✅ Resolved |
+| [New Ticket]() | Vendor |  | | ✅ Resolved |
+| [New Ticket]() | Vendor |  | | ✅ Resolved |
+| [New Ticket]() | Vendor |  | | ✅ Resolved |
 
 
 📂 **[View All Jira Troubleshooting Tickets](https://github.com/SoloBows/Technical-Documentation/tree/8c7c8ee2c72cac5f3198ac9f09923fb7c5347690/Troubleshooting/Tickets)**  
