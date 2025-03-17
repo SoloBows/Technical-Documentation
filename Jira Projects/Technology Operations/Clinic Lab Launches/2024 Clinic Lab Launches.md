@@ -7,7 +7,7 @@ The **2024 Clinic Lab Launch Initiative** was a large-scale project aimed at exp
 📅 **Completion Date:** December 2024  
 🎯 **Project Status:** ✅ Completed  
 
-📂 **Jira Epic:** [TO-501 - 2024 New Clinic Lab Launch](https://kindbody.atlassian.net/browse/TO-501)  
+📂 **Jira Epic:** [TO-501 - 2024 New Clinic Lab Launch](https://github.com/SoloBows/Technical-Documentation/blob/d8e723b733130e0e41c2a23213a3635956538ac8/Jira%20Projects/Technology%20Operations/Tickets/%5B%23TO-501%5D%202024%20New%20Clinic%20Lab%20Launch.pdf)  
 📂 **Jira Project Board:** [Technology Operations](https://kindbody.atlassian.net/secure/BrowseProject.jspa?id=10043)  
 
 ---
