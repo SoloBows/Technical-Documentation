@@ -60,7 +60,8 @@ To address these concerns, **an automated offboarding workflow** was developed w
 ---
 
 ## 📷 **Screenshots**
-| **Offboarding Workflow** |
+| **Offboarding Jira Ticket** |
+- Standard Offboard ticket set up
 | ![Image](https://github.com/user-attachments/assets/d9984d03-6939-47a5-8ce1-90370a1c9c25)|
 
 ---
