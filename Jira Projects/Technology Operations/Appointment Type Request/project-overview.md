@@ -63,8 +63,9 @@ This initiative **streamlined appointment management**, ensuring that:
 ## 🚀 **Next Steps**
 - **Monitor workflow adoption and adjust for efficiency.**  
 - **Expand automation rules for recurring appointment updates.**  
-- **Review new appointment type requests quarterly for optimization.**  
-
+- **Review new appointment type requests quarterly for optimization.**
+  
+---
 
 # 🏥 Kindbody 360 & Holistic Health Appointment Consolidation
 
