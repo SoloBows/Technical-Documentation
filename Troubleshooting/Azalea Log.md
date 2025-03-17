@@ -6,7 +6,7 @@ This document logs **troubleshooting tickets** handled within the Technology Ope
 ---
 
 ## 🔹 **Resolved Tickets**
-| **Ticket ID** |**Vendor** | **Issue Summary** | **Resolution** | **Status** |
+| **Ticket ID** | **Vendor** | **Issue Summary** | **Resolution** | **Status** |
 |-------------|--------------------|---------------|-------------|
 | **TO-3179** | Azalea | Patient appearing out of network for Dr.Jeelani |Confirmed under **Demographics** for the Patient the **Rendering Provider** field is empty| ✅ Resolved |
 
