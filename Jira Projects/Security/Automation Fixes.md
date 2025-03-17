@@ -70,6 +70,7 @@ To address these concerns, **an automated offboarding workflow** was developed w
 📂 **[Security Audit Findings](audit-findings.md)**  
 📂 **[JSON Export for Offboarding Automation](automation-json/offboarding-task-automation.json)**  
 📥 [User Access Audit Template.xlsx](https://github.com/SoloBows/Technical-Documentation/blob/67a91de6e252d3a06f39698ed169d52880523cb0/Audit%20Templates/User%20Access%20Audit%20Template.xlsx)
+
 **[Security Tickets](https://github.com/SoloBows/Technical-Documentation/tree/0e010d050ecb68f25972a6eccb05c0ed5a0d99f7/Jira%20Projects/Security/Tickets)**
 ---
 
