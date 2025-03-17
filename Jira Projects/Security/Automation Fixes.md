@@ -60,9 +60,9 @@ To address these concerns, **an automated offboarding workflow** was developed w
 ---
 
 ## 📷 **Screenshots**
-| **Security Dashboard View** | **Offboarding Workflow** |
+| **Offboarding Workflow** |
 |----------------------|----------------------|
-| ![Vendor Offboarding Report](https://github.com/user-attachments/assets/44feb22b-96dc-4b5f-b8c3-0201b9f3502d)| ![Jira Automation for Offboarding](https://github.com/user-attachments/assets/021d147e-d569-40ec-8f97-213af0483d26)|
+| ![Image](https://github.com/user-attachments/assets/d9984d03-6939-47a5-8ce1-90370a1c9c25)|
 
 ---
 
