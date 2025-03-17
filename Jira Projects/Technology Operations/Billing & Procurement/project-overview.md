@@ -39,9 +39,8 @@
 ---
 
 ## 📂 **Related Documentation**
-📂 **[Glenview AT&T Payment Issue](glenview-att-payment.md)**  
 📂 **[Technology Operations Board](https://kindbody.atlassian.net/browse/TO-3576)**  
-📂 **[ISP Payment Tracking SOP](https://kindbody.atlassian.net/wiki/spaces/TechOps/pages/1716650005/ISP+Billing+Management)**  
+📂 **[ISP Payment Tracker](https://github.com/SoloBows/Technical-Documentation/blob/12d37c2f7f339ea87485942aa73d47d5b4bb2610/Audit%20Templates/ISPs_Security%20Payment%20Tracker.xlsx)**  
 
 ---
 
