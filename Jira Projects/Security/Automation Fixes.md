@@ -56,6 +56,7 @@ To address these concerns, **an automated offboarding workflow** was developed w
 ✅ **Reduced unauthorized vendor access risk by 90%**.  
 ✅ **Eliminated need for manual security audits** for vendor offboarding.  
 ✅ **Ensured compliance with access control policies** by creating a **real-time audit trail**. 
+
 ✅ **Created an SOP for all vendors managed by Technical Operations team**
 
 ---
@@ -74,7 +75,7 @@ To address these concerns, **an automated offboarding workflow** was developed w
 
 🎟️ **[Security Tickets](https://github.com/SoloBows/Technical-Documentation/tree/0e010d050ecb68f25972a6eccb05c0ed5a0d99f7/Jira%20Projects/Security/Tickets)**
 
-
+📂 **[SOP's for Tech Op Vendors](https://github.com/SoloBows/Technical-Documentation/tree/de23221b2434000c984b2ba21963142e1f583ca3/SOP)**
 
 ---
 
