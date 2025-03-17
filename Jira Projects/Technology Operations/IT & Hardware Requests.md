@@ -65,9 +65,9 @@ This request was submitted **via Slack**, and the order was placed through **Hyb
 ---
 
 ## 📷 **Screenshots**
-| **Order Request View** | **Tracking Confirmation** |
-|----------------------|----------------------|
-| ![IT Shipping Request](https://github.com/user-attachments/assets/44feb22b-96dc-4b5f-b8c3-0201b9f3502d) | ![Tracking Dashboard](https://github.com/user-attachments/assets/021d147e-d569-40ec-8f97-213af0483d26) |
+| **Tracking Confirmation** |
+|----------------------|
+|![Image](https://github.com/user-attachments/assets/cfe15c97-e27d-43b9-b509-c7eba07ac5bc)|
 
 ---
 
