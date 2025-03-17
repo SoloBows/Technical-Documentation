@@ -71,9 +71,8 @@ This request was submitted **via Slack**, and the order was placed through **Hyb
 
 ---
 
-## 📂 **Related Documentation**
-📂 **[Technology Operations Project Overview](project-overview.md)**  
-📂 **[Automation Fixes for Tech Ops](automation-fixes.md)**  
+## 📂 **Related Documentation** 
+📂 **[Technology Operations Tickets](https://github.com/SoloBows/Technical-Documentation/tree/c8ec96050678ec536c0d5db05635b0e38edbf9a2/Jira%20Projects/Technology%20Operations/Tickets))**  
 
 ---
 
