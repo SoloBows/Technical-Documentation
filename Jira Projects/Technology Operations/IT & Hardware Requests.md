@@ -72,7 +72,7 @@ This request was submitted **via Slack**, and the order was placed through **Hyb
 ---
 
 ## 📂 **Related Documentation** 
-📂 **[Technology Operations Tickets](https://github.com/SoloBows/Technical-Documentation/tree/c8ec96050678ec536c0d5db05635b0e38edbf9a2/Jira%20Projects/Technology%20Operations/Tickets))**  
+📂 **[Technology Operations Tickets](https://github.com/SoloBows/Technical-Documentation/tree/c8ec96050678ec536c0d5db05635b0e38edbf9a2/Jira%20Projects/Technology%20Operations/Tickets)**  
 
 ---
 
