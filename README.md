@@ -1,63 +1,50 @@
-📂 Technical Documentation Repository
+# 📂 Technical Documentation Repository
 
-📌 Overview
+## 📌 Overview
+Welcome to my **Technical Documentation Repository**! This serves as a centralized hub for **IT operations, troubleshooting guides, project management workflows, and automation processes**. 
 
-Welcome to the Technical Documentation Repository! This repository serves as a centralized hub for all IT operations, troubleshooting guides, project management workflows, and automation processes.
+Each section includes **detailed documentation, step-by-step procedures, and implementation notes** for various Jira projects, system automations, IT workflows, and troubleshooting tickets.
 
-Each section includes detailed documentation, step-by-step procedures, and implementation notes for various Jira projects, system automations, IT workflows, and troubleshooting logs.
+---
 
-⸻
+## 🚀 Key Highlights
 
-🚀 Key Sections
+### 🔹 **Jira Project Documentation**
+- **[Technology Operations](https://github.com/SoloBows/Technical-Documentation/tree/main/Jira%20Projects/Technology%20Operations)** → IT infrastructure, automations, and workflow improvements.
+- **[Revenue Cycle Management](https://github.com/SoloBows/Technical-Documentation/tree/main/Jira%20Projects/Revenue%20Cycle%20Management)** → Billing automation & finance workflows.
+- **[Security](https://github.com/SoloBows/Technical-Documentation/tree/main/Jira%20Projects/Security)** → Access controls, audits, and security implementations.
+- **[Facilities & Maintenance](https://github.com/SoloBows/Technical-Documentation/tree/main/Jira%20Projects/Facilities%20&%20Maintenance)** → Maintenance workflows and infrastructure projects.
+- **[People Ops](https://github.com/SoloBows/Technical-Documentation/tree/main/Jira%20Projects/People%20Ops)** → Employee management and HR operations.
 
-🔹 Audit Templates
-	•	ISPs Security Payment Tracker → Tracks security-related ISP payments.
-	•	Jira Report Template → Standardized template for reporting in Jira.
-	•	User Access Audit Template → Tracks and audits system access.
+### 🔹 **IT Operations & Troubleshooting**
+- **[Troubleshooting Logs](https://github.com/SoloBows/Technical-Documentation/tree/main/Troubleshooting/Tickets)** → Resolutions for IT-related issues across different projects.
+- **[Security & Compliance](https://github.com/SoloBows/Technical-Documentation/tree/main/Jira%20Projects/Security)** → Best practices and security configurations.
+- **[SOPs & Documentation](https://github.com/SoloBows/Technical-Documentation/tree/main/SOP)** → Standard Operating Procedures (SOPs) for various systems and workflows.
 
-🔹 Jira Project Documentation
-	•	Technology Operations → IT infrastructure, automations, and workflow improvements.
-	•	Revenue Cycle Management → Billing automation & finance workflows.
-	•	Security → Access controls, audits, and security implementations.
-	•	Facilities & Maintenance → Facilities management workflows and optimizations.
-	•	People Ops → Documentation related to HR and operations processes.
+### 🔹 **Audit & Process Automations**
+- **[Audit Templates](https://github.com/SoloBows/Technical-Documentation/tree/main/Audit%20Templates)** → Standardized templates for conducting security and compliance audits.
+  - **ISPs Security Payment Tracker**  
+  - **Jira Report Template**  
+  - **User Access Audit Template**
+- **[SFTP Workflow & Setup](https://github.com/SoloBows/Technical-Documentation/tree/main/Jira%20Projects/Technology%20Operations/SFTP)** → Secure data transfer process setup.
+- **[Automation Scripts](https://github.com/SoloBows/Technical-Documentation/tree/main/Jira%20Projects/Technology%20Operations/Automation%20Scripts)** → Automated workflows to improve ticketing and efficiency.
 
-🔹 Standard Operating Procedures (SOPs)
-	•	Azalea → SOPs related to the Azalea system.
-	•	Change Healthcare → Procedures for Change Healthcare integrations.
-	•	Claimscape → SOPs for Claimscape workflows.
-	•	Hybrent → Documentation for Hybrent processes.
-	•	Klara → Standard operating procedures for Klara.
-	•	Orchard → SOPs related to Orchard systems.
-	•	Stripe → Procedures for Stripe payment processing.
-	•	Tricefy → Documentation for Tricefy workflows.
+---
 
-🔹 IT Operations & Troubleshooting
-	•	Troubleshooting Logs → Resolutions for IT-related issues.
-	•	Security & Compliance → Best practices and security configurations.
+## 📖 How to Use This Documentation
+1️⃣ **Navigate through the repository folders** to find relevant project documentation.  
+2️⃣ **Use the troubleshooting logs** for quick issue resolutions.  
+3️⃣ **Leverage SOPs and best practices** for structured workflows.  
+4️⃣ **Explore Jira automation scripts** to optimize processes.  
 
-🔹 Process Automations
-	•	Jira Automations → Optimized workflows for ticketing efficiency.
-	•	SFTP Workflow & Setup → Secure file transfer process setup.
+---
 
-⸻
+## 📬 Contact & Contribution
+📩 If you have any questions, feel free to reach out!  
+💡 **Suggestions & contributions** are welcome—submit a pull request or open an issue.
 
-📖 How to Use This Documentation
+---
 
-1️⃣ Browse repository folders to find relevant documentation.
-2️⃣ Use troubleshooting logs for quick issue resolutions.
-3️⃣ Leverage SOPs to standardize operations and workflows.
-4️⃣ Explore Jira automation scripts to enhance process efficiency.
+🔗 **[GitHub Repository Link](https://github.com/SoloBows/Technical-Documentation)**  
 
-⸻
-
-📬 Contact & Contribution
-
-📩 Have questions? Feel free to reach out!
-💡 Suggestions & contributions are welcome—submit a pull request or open an issue.
-
-⸻
-
-🔗 GitHub Repository Link
-
-🚀 Last Updated: March 2025
+🚀 **Last Updated:** `March 2025`
