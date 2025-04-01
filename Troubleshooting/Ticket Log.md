@@ -4,7 +4,7 @@
 This document logs **troubleshooting tickets** handled within the Technology Operations board.
 
 ---
-📂 **[View All Jira Troubleshooting Tickets](https://github.com/SoloBows/Technical-Documentation/tree/8c7c8ee2c72cac5f3198ac9f09923fb7c5347690/Troubleshooting/Tickets)**  
+📂 **[View All Jira Troubleshooting Tickets](https://github.com/SoloBows/Technical-Documentation/tree/74185a9b4e64094f324d1f825959547dc1962980/Troubleshooting/Tickets)**  
 
 ## 🔹 **Resolved Tickets**
 | **Ticket ID** | **Vendor** | **Issue Summary** | **Resolution** | **Status** |
