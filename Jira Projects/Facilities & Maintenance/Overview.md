@@ -1,5 +1,7 @@
-# 🏆 FM Jira Project - Automation Fixes
+# 🏆 Facilities Operation Project  
 
+<details>
+<summary>📁 FM-3337: Creating a Manual Trigger for FM-to-TSD Tickets</summary>
 ## 🔹 FM-3337: Creating a Manual Trigger for FM-to-TSD Tickets  
 
 ### 🎯 **Request Details**
@@ -65,4 +67,6 @@
 ### **📌 Next Steps**
 - Monitor automation **for failures or edge cases**.  
 - Expand the rule to include **more field mappings** if needed.  
-- Continue tracking **SLA improvements** on ticket resolution times.  
+- Continue tracking **SLA improvements** on ticket resolution times.
+
+  </details>
