@@ -26,5 +26,6 @@ Built a Jira Service project for Marketing to replace Google Forms/Sheets and ma
 - Avg Time to Completion
 - Workload by Assignee
 
-📂 [MKT Board](https://kindbody.atlassian.net/jira/servicedesk/projects/MKT/queues/custom/739)  
+📂 [MKT Board](https://kindbody.atlassian.net/jira/servicedesk/projects/MKT/queues/custom/739) 
+📂 [Link to Ticket](https://kindbody.atlassian.net/jira/servicedesk/projects/MKT/queues/custom/739) 
 </details>
