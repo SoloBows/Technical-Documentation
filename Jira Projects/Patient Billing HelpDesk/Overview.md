@@ -22,5 +22,5 @@ Revamped the PBHD board to improve regional routing and dashboard insights for P
 | Dashboards               | 🟢 Updated for team metrics         |
 
 📂 [PBHD Documentation](https://docs.google.com/document/d/1Otp7E7FUJbfnzsY7QUKLHDWrecIu0BdDCZP26kfDnAA) 
-📂 [Link to ticket](https://docs.google.com/document/d/1Otp7E7FUJbfnzsY7QUKLHDWrecIu0BdDCZP26kfDnAA) 
+📂 [Link to ticket]([https://docs.google.com/document/d/1Otp7E7FUJbfnzsY7QUKLHDWrecIu0BdDCZP26kfDnAA](https://github.com/SoloBows/Technical-Documentation/blob/674ee4f0544764dbf0e4bd59ee1fc2ef42671e16/Jira%20Projects/Patient%20Billing%20HelpDesk/%5B%23TO-4100%5D%20Quarterly%20PBHD%20Project%20Update.pdf)) 
 </details>
