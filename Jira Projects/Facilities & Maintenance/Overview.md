@@ -1,4 +1,6 @@
-# 🏆 FM Jira Project - Automation Fixes
+# 🏆 Facilities Operation Project  
+
+<details>
 
 ## 🔹 FM-3337: Creating a Manual Trigger for FM-to-TSD Tickets  
 
@@ -59,7 +61,7 @@
 📂 **[Automation rule screenshots]**  
  ![FM-to-TSD Automation](https://github.com/user-attachments/assets/c8b05b34-1354-4c66-98c6-582fa2447a92) 
  ![Request Types Screenshot](https://github.com/user-attachments/assets/f894e371-5cd3-4711-a77f-14f0fce590f6)  
-
+</details>
 ---
 
 ### **📌 Next Steps**
