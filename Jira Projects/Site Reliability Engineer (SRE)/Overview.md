@@ -27,5 +27,5 @@ Created a centralized SRE Jira project board to capture ITSM tickets, streamline
 
 📂 [SRE Jira Project](https://kindbody.atlassian.net/jira/servicedesk/projects/SRE/queues/custom/607)  
 
-[Link to Ticket](https://github.com/SoloBows/Technical-Documentation/blob/4b827fa04cab693886e605d5c1b9bfc4ad0a12eb/Jira%20Projects/Site%20Reliability%20Engineer%20(SRE)/%5B%23TO-3927%5D%20Jira_%20SRE%20Team%20Project%20Creation.pdf)
+📌[Link to Ticket](https://github.com/SoloBows/Technical-Documentation/blob/4b827fa04cab693886e605d5c1b9bfc4ad0a12eb/Jira%20Projects/Site%20Reliability%20Engineer%20(SRE)/%5B%23TO-3927%5D%20Jira_%20SRE%20Team%20Project%20Creation.pdf)
 </details>
