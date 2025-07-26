@@ -27,7 +27,7 @@
 2️⃣ **Requested a new Teampay card** for payment processing.  
 3️⃣ **Escalated to AP for account limit adjustments** to allow successful payment.  
 4️⃣ **Confirmed service restoration** after payment.  
-5️⃣ **Created an **automated ticket tracking system** to prevent missed payments.  
+5️⃣ **Created an automated ticket tracking system** to prevent missed payments.  
 
 ---
 
