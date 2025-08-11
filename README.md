@@ -10,11 +10,11 @@ Each section includes **detailed documentation, step-by-step procedures, and imp
 ## 🚀 Key Highlights
 
 ### 🔹 **Jira Project Documentation**
-- **[Technology Operations](https://github.com/SoloBows/Technical-Documentation/tree/main/Jira%20Projects/Technology%20Operations)** → IT infrastructure, automations, and workflow improvements.
-- **[Revenue Cycle Management](https://github.com/SoloBows/Technical-Documentation/tree/main/Jira%20Projects/Revenue%20Cycle%20Management)** → Billing automation & finance workflows.
-- **[Security](https://github.com/SoloBows/Technical-Documentation/tree/main/Jira%20Projects/Security)** → Access controls, audits, and security implementations.
-- **[Facilities & Maintenance](https://github.com/SoloBows/Technical-Documentation/tree/main/Jira%20Projects/Facilities%20&%20Maintenance)** → Maintenance workflows and infrastructure projects.
-- **[People Ops](https://github.com/SoloBows/Technical-Documentation/tree/main/Jira%20Projects/People%20Ops)** → Employee management and HR operations.
+- **[Technology Operations](https://github.com/SoloBows/Technical-Documentation/tree/f74955ffa562887f40bd5a77f74559234b16a121/Projects/Technology%20Operations)** → IT infrastructure, automations, and workflow improvements.
+- **[Revenue Cycle Management](https://github.com/SoloBows/Technical-Documentation/tree/f74955ffa562887f40bd5a77f74559234b16a121/Projects/Revenue%20Cycle%20Managment)** → Billing automation & finance workflows.
+- **[Security](https://github.com/SoloBows/Technical-Documentation/tree/f74955ffa562887f40bd5a77f74559234b16a121/Projects/Security)** → Access controls, audits, and security implementations.
+- **[Facilities & Maintenance](https://github.com/SoloBows/Technical-Documentation/tree/f74955ffa562887f40bd5a77f74559234b16a121/Projects/Facilities%20%26%20Maintenance)** → Maintenance workflows and infrastructure projects.
+- **[People Ops](https://github.com/SoloBows/Technical-Documentation/tree/f74955ffa562887f40bd5a77f74559234b16a121/Projects/People%20Ops)** → Employee management and HR operations.
 
 ### 🔹 **IT Operations & Troubleshooting**
 - **[Troubleshooting Logs](https://github.com/SoloBows/Technical-Documentation/tree/main/Troubleshooting/Tickets)** → Resolutions for IT-related issues across different projects.
