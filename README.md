@@ -17,8 +17,8 @@ Each section includes **detailed documentation, step-by-step procedures, and imp
 - **[People Ops](https://github.com/SoloBows/Technical-Documentation/tree/f74955ffa562887f40bd5a77f74559234b16a121/Projects/People%20Ops)** → Employee management and HR operations.
 
 ### 🔹 **IT Operations & Troubleshooting**
-- **[Troubleshooting Logs](https://github.com/SoloBows/Technical-Documentation/tree/main/Troubleshooting/Tickets)** → Resolutions for IT-related issues across different projects.
-- **[Security & Compliance](https://github.com/SoloBows/Technical-Documentation/tree/main/Jira%20Projects/Security)** → Best practices and security configurations.
+- **[Troubleshooting Logs](https://github.com/SoloBows/Technical-Documentation/blob/fe4287fa394d89fd583a0f5420ce82903b523da4/Troubleshooting/Ticket%20Log.md)** → Resolutions for IT-related issues across different projects.
+- **[Security & Compliance](https://github.com/SoloBows/Technical-Documentation/tree/fe4287fa394d89fd583a0f5420ce82903b523da4/Projects/Security)** → Best practices and security configurations.
 - **[SOPs & Documentation](https://github.com/SoloBows/Technical-Documentation/tree/main/SOP)** → Standard Operating Procedures (SOPs) for various systems and workflows.
 
 ### 🔹 **Audit & Process Automations**
@@ -26,8 +26,8 @@ Each section includes **detailed documentation, step-by-step procedures, and imp
   - **ISPs Security Payment Tracker**  
   - **Jira Report Template**  
   - **User Access Audit Template**
-- **[SFTP Workflow & Setup](https://github.com/SoloBows/Technical-Documentation/tree/main/Jira%20Projects/Technology%20Operations/SFTP)** → Secure data transfer process setup.
-- **[Automation Scripts](https://github.com/SoloBows/Technical-Documentation/tree/main/Jira%20Projects/Technology%20Operations/Automation%20Scripts)** → Automated workflows to improve ticketing and efficiency.
+- **[SFTP Workflow & Setup](https://github.com/SoloBows/Technical-Documentation/tree/fe4287fa394d89fd583a0f5420ce82903b523da4/Projects/Technology%20Operations/SFTP)** → Secure data transfer process setup.
+- **[Automation Scripts](https://github.com/SoloBows/Technical-Documentation/blob/fe4287fa394d89fd583a0f5420ce82903b523da4/Projects/Security/Automation%20Fixes.md)** → Automated workflows to improve ticketing and efficiency.
 
 ---
 
